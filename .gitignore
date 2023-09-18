@@ -1,0 +1,10 @@
+*.sw*
+*.sv*
+__pycache__
+venv
+*.so
+
+cpp_vm/RandomX-master/build
+cpp_vm/build
+cpp_vm.c
+

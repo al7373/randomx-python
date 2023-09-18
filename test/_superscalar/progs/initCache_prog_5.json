@@ -1,0 +1,3176 @@
+{
+    "address_register": 0,
+    "asicLatencies": [
+        93,
+        90,
+        93,
+        91,
+        91,
+        89,
+        92,
+        89
+    ],
+    "asicLatency": 93,
+    "codeSize": 2389,
+    "cpuLatencies": [
+        173,
+        167,
+        172,
+        168,
+        170,
+        168,
+        172,
+        170
+    ],
+    "cpuLatency": 173,
+    "decodeCycles": 155,
+    "instructions": [
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 1
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 6,
+            "imm32": 52,
+            "mod": 0,
+            "opcode": 4,
+            "src": 6
+        },
+        {
+            "dst": 7,
+            "imm32": 52,
+            "mod": 0,
+            "opcode": 4,
+            "src": 7
+        },
+        {
+            "dst": 0,
+            "imm32": 3504614238,
+            "mod": 0,
+            "opcode": 7,
+            "src": 0
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 67,
+            "opcode": 2,
+            "src": 3
+        },
+        {
+            "dst": 7,
+            "imm32": 905396514,
+            "mod": 0,
+            "opcode": 5,
+            "src": 7
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 6
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 0
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 3
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 1
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 3
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 72,
+            "opcode": 2,
+            "src": 7
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 138,
+            "opcode": 2,
+            "src": 4
+        },
+        {
+            "dst": 3,
+            "imm32": 160011456,
+            "mod": 0,
+            "opcode": 8,
+            "src": 3
+        },
+        {
+            "dst": 4,
+            "imm32": 15,
+            "mod": 0,
+            "opcode": 4,
+            "src": 4
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 159,
+            "opcode": 2,
+            "src": 4
+        },
+        {
+            "dst": 2,
+            "imm32": 4169236333,
+            "mod": 0,
+            "opcode": 9,
+            "src": 2
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 2
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 3
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 2
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 250,
+            "opcode": 2,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 14,
+            "mod": 0,
+            "opcode": 4,
+            "src": 5
+        },
+        {
+            "dst": 0,
+            "imm32": 4028641381,
+            "mod": 0,
+            "opcode": 10,
+            "src": 0
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 2
+        },
+        {
+            "dst": 0,
+            "imm32": 4240123513,
+            "mod": 0,
+            "opcode": 5,
+            "src": 0
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 1
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 4
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 1
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 1
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 122,
+            "opcode": 2,
+            "src": 7
+        },
+        {
+            "dst": 6,
+            "imm32": 2104716407,
+            "mod": 0,
+            "opcode": 6,
+            "src": 6
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 6
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 4
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 7
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 157,
+            "opcode": 2,
+            "src": 3
+        },
+        {
+            "dst": 4,
+            "imm32": 2450784963,
+            "mod": 0,
+            "opcode": 10,
+            "src": 4
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 3
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 2
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 0
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 250,
+            "opcode": 2,
+            "src": 4
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 0
+        },
+        {
+            "dst": 1,
+            "imm32": 3454637093,
+            "mod": 0,
+            "opcode": 5,
+            "src": 1
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 3
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 3
+        },
+        {
+            "dst": 4,
+            "imm32": 538231113,
+            "mod": 0,
+            "opcode": 13,
+            "src": 4
+        },
+        {
+            "dst": 6,
+            "imm32": 2675467490,
+            "mod": 0,
+            "opcode": 7,
+            "src": 6
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 143,
+            "opcode": 2,
+            "src": 2
+        },
+        {
+            "dst": 1,
+            "imm32": 2104544540,
+            "mod": 0,
+            "opcode": 5,
+            "src": 1
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 3
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 6
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 2
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 2
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 6,
+            "imm32": 59,
+            "mod": 0,
+            "opcode": 4,
+            "src": 6
+        },
+        {
+            "dst": 5,
+            "imm32": 2507087058,
+            "mod": 0,
+            "opcode": 5,
+            "src": 5
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 4
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 4
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 6
+        },
+        {
+            "dst": 1,
+            "imm32": 27,
+            "mod": 0,
+            "opcode": 4,
+            "src": 1
+        },
+        {
+            "dst": 4,
+            "imm32": 1366341809,
+            "mod": 0,
+            "opcode": 7,
+            "src": 4
+        },
+        {
+            "dst": 6,
+            "imm32": 9,
+            "mod": 0,
+            "opcode": 4,
+            "src": 6
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 3
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 0
+        },
+        {
+            "dst": 0,
+            "imm32": 24,
+            "mod": 0,
+            "opcode": 4,
+            "src": 0
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 3
+        },
+        {
+            "dst": 7,
+            "imm32": 2746820726,
+            "mod": 0,
+            "opcode": 6,
+            "src": 7
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 0
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 3
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 3
+        },
+        {
+            "dst": 2,
+            "imm32": 2434118331,
+            "mod": 0,
+            "opcode": 6,
+            "src": 2
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 3
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 3
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 2
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 16,
+            "opcode": 2,
+            "src": 3
+        },
+        {
+            "dst": 2,
+            "imm32": 797762493,
+            "mod": 0,
+            "opcode": 5,
+            "src": 2
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 5
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 1
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 1
+        },
+        {
+            "dst": 4,
+            "imm32": 1,
+            "mod": 0,
+            "opcode": 4,
+            "src": 4
+        },
+        {
+            "dst": 6,
+            "imm32": 1744293084,
+            "mod": 0,
+            "opcode": 8,
+            "src": 6
+        },
+        {
+            "dst": 3,
+            "imm32": 46,
+            "mod": 0,
+            "opcode": 4,
+            "src": 3
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 3
+        },
+        {
+            "dst": 5,
+            "imm32": 35,
+            "mod": 0,
+            "opcode": 4,
+            "src": 5
+        },
+        {
+            "dst": 4,
+            "imm32": 1934205781,
+            "mod": 0,
+            "opcode": 5,
+            "src": 4
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 5
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 0
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 5
+        },
+        {
+            "dst": 3,
+            "imm32": 1620790681,
+            "mod": 0,
+            "opcode": 6,
+            "src": 3
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 1
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 3
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 0
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 2
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 2
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 229,
+            "opcode": 2,
+            "src": 3
+        },
+        {
+            "dst": 3,
+            "imm32": 52,
+            "mod": 0,
+            "opcode": 4,
+            "src": 3
+        },
+        {
+            "dst": 7,
+            "imm32": 1264865168,
+            "mod": 0,
+            "opcode": 9,
+            "src": 7
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 2
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 214,
+            "opcode": 2,
+            "src": 2
+        },
+        {
+            "dst": 2,
+            "imm32": 2395309433,
+            "mod": 0,
+            "opcode": 7,
+            "src": 2
+        },
+        {
+            "dst": 6,
+            "imm32": 19,
+            "mod": 0,
+            "opcode": 4,
+            "src": 6
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 3
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 3
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 251,
+            "opcode": 2,
+            "src": 0
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 1
+        },
+        {
+            "dst": 0,
+            "imm32": 591453160,
+            "mod": 0,
+            "opcode": 6,
+            "src": 0
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 2
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 6
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 4
+        },
+        {
+            "dst": 5,
+            "imm32": 1936753207,
+            "mod": 0,
+            "opcode": 5,
+            "src": 5
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 1
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 1
+        },
+        {
+            "dst": 6,
+            "imm32": 2990440119,
+            "mod": 0,
+            "opcode": 13,
+            "src": 6
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 7,
+            "imm32": 19,
+            "mod": 0,
+            "opcode": 4,
+            "src": 7
+        },
+        {
+            "dst": 0,
+            "imm32": 60,
+            "mod": 0,
+            "opcode": 4,
+            "src": 0
+        },
+        {
+            "dst": 7,
+            "imm32": 2758947368,
+            "mod": 0,
+            "opcode": 8,
+            "src": 7
+        },
+        {
+            "dst": 5,
+            "imm32": 7,
+            "mod": 0,
+            "opcode": 4,
+            "src": 5
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 7
+        },
+        {
+            "dst": 5,
+            "imm32": 4077318632,
+            "mod": 0,
+            "opcode": 6,
+            "src": 5
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 7
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 0
+        },
+        {
+            "dst": 4,
+            "imm32": 431193313,
+            "mod": 0,
+            "opcode": 13,
+            "src": 4
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 1
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 204,
+            "opcode": 2,
+            "src": 3
+        },
+        {
+            "dst": 3,
+            "imm32": 61,
+            "mod": 0,
+            "opcode": 4,
+            "src": 3
+        },
+        {
+            "dst": 1,
+            "imm32": 1286966095,
+            "mod": 0,
+            "opcode": 7,
+            "src": 1
+        },
+        {
+            "dst": 2,
+            "imm32": 12,
+            "mod": 0,
+            "opcode": 4,
+            "src": 2
+        },
+        {
+            "dst": 0,
+            "imm32": 41,
+            "mod": 0,
+            "opcode": 4,
+            "src": 0
+        },
+        {
+            "dst": 3,
+            "imm32": 612724640,
+            "mod": 0,
+            "opcode": 7,
+            "src": 3
+        },
+        {
+            "dst": 1,
+            "imm32": 5,
+            "mod": 0,
+            "opcode": 4,
+            "src": 1
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 1
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 3,
+            "imm32": 56,
+            "mod": 0,
+            "opcode": 4,
+            "src": 3
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 3
+        },
+        {
+            "dst": 5,
+            "imm32": 1310214781,
+            "mod": 0,
+            "opcode": 6,
+            "src": 5
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 3
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 7
+        },
+        {
+            "dst": 2,
+            "imm32": 2468779952,
+            "mod": 0,
+            "opcode": 13,
+            "src": 2
+        },
+        {
+            "dst": 7,
+            "imm32": 2244937111,
+            "mod": 0,
+            "opcode": 10,
+            "src": 7
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 11,
+            "src": 6
+        },
+        {
+            "dst": 0,
+            "imm32": 2472641536,
+            "mod": 0,
+            "opcode": 13,
+            "src": 0
+        },
+        {
+            "dst": 6,
+            "imm32": 3700304973,
+            "mod": 0,
+            "opcode": 8,
+            "src": 6
+        },
+        {
+            "dst": 5,
+            "imm32": 1,
+            "mod": 0,
+            "opcode": 4,
+            "src": 5
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 2832657930,
+            "mod": 0,
+            "opcode": 6,
+            "src": 5
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 6
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 6
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 1,
+            "imm32": 40,
+            "mod": 0,
+            "opcode": 4,
+            "src": 1
+        },
+        {
+            "dst": 4,
+            "imm32": 63,
+            "mod": 0,
+            "opcode": 4,
+            "src": 4
+        },
+        {
+            "dst": 1,
+            "imm32": 1691519329,
+            "mod": 0,
+            "opcode": 10,
+            "src": 1
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 4
+        },
+        {
+            "dst": 7,
+            "imm32": 4160100069,
+            "mod": 0,
+            "opcode": 13,
+            "src": 7
+        },
+        {
+            "dst": 5,
+            "imm32": 2995800310,
+            "mod": 0,
+            "opcode": 7,
+            "src": 5
+        },
+        {
+            "dst": 3,
+            "imm32": 28,
+            "mod": 0,
+            "opcode": 4,
+            "src": 3
+        },
+        {
+            "dst": 5,
+            "imm32": 44,
+            "mod": 0,
+            "opcode": 4,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 2921729905,
+            "mod": 0,
+            "opcode": 9,
+            "src": 5
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 1
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 2
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 1,
+            "imm32": 34,
+            "mod": 0,
+            "opcode": 4,
+            "src": 1
+        },
+        {
+            "dst": 2,
+            "imm32": 2892578592,
+            "mod": 0,
+            "opcode": 5,
+            "src": 2
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 6
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 6
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 3
+        },
+        {
+            "dst": 6,
+            "imm32": 3666771090,
+            "mod": 0,
+            "opcode": 5,
+            "src": 6
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 0
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 5
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 2
+        },
+        {
+            "dst": 2,
+            "imm32": 3421848962,
+            "mod": 0,
+            "opcode": 13,
+            "src": 2
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 252,
+            "opcode": 2,
+            "src": 3
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 168,
+            "opcode": 2,
+            "src": 0
+        },
+        {
+            "dst": 5,
+            "imm32": 3590513367,
+            "mod": 0,
+            "opcode": 9,
+            "src": 5
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 4
+        },
+        {
+            "dst": 7,
+            "imm32": 2913623481,
+            "mod": 0,
+            "opcode": 13,
+            "src": 7
+        },
+        {
+            "dst": 5,
+            "imm32": 165815501,
+            "mod": 0,
+            "opcode": 10,
+            "src": 5
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 11,
+            "src": 5
+        },
+        {
+            "dst": 6,
+            "imm32": 1579517940,
+            "mod": 0,
+            "opcode": 13,
+            "src": 6
+        },
+        {
+            "dst": 5,
+            "imm32": 950438268,
+            "mod": 0,
+            "opcode": 7,
+            "src": 5
+        },
+        {
+            "dst": 2,
+            "imm32": 16,
+            "mod": 0,
+            "opcode": 4,
+            "src": 2
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 1
+        },
+        {
+            "dst": 4,
+            "imm32": 468604901,
+            "mod": 0,
+            "opcode": 5,
+            "src": 4
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 1
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 5
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 3
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 26,
+            "opcode": 2,
+            "src": 7
+        },
+        {
+            "dst": 1,
+            "imm32": 24,
+            "mod": 0,
+            "opcode": 4,
+            "src": 1
+        },
+        {
+            "dst": 7,
+            "imm32": 1780545539,
+            "mod": 0,
+            "opcode": 10,
+            "src": 7
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 11,
+            "src": 6
+        },
+        {
+            "dst": 1,
+            "imm32": 232076819,
+            "mod": 0,
+            "opcode": 13,
+            "src": 1
+        },
+        {
+            "dst": 3,
+            "imm32": 2572706281,
+            "mod": 0,
+            "opcode": 8,
+            "src": 3
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 36,
+            "opcode": 2,
+            "src": 3
+        },
+        {
+            "dst": 7,
+            "imm32": 31,
+            "mod": 0,
+            "opcode": 4,
+            "src": 7
+        },
+        {
+            "dst": 3,
+            "imm32": 1583317965,
+            "mod": 0,
+            "opcode": 9,
+            "src": 3
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 5
+        },
+        {
+            "dst": 3,
+            "imm32": 1087518055,
+            "mod": 0,
+            "opcode": 13,
+            "src": 3
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 1
+        },
+        {
+            "dst": 4,
+            "imm32": 20,
+            "mod": 0,
+            "opcode": 4,
+            "src": 4
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 975996216,
+            "mod": 0,
+            "opcode": 6,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 2
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 4
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 218,
+            "opcode": 2,
+            "src": 1
+        },
+        {
+            "dst": 2,
+            "imm32": 4194979021,
+            "mod": 0,
+            "opcode": 8,
+            "src": 2
+        },
+        {
+            "dst": 5,
+            "imm32": 33,
+            "mod": 0,
+            "opcode": 4,
+            "src": 5
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 1
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 134,
+            "opcode": 2,
+            "src": 7
+        },
+        {
+            "dst": 4,
+            "imm32": 5,
+            "mod": 0,
+            "opcode": 4,
+            "src": 4
+        },
+        {
+            "dst": 6,
+            "imm32": 1910954212,
+            "mod": 0,
+            "opcode": 7,
+            "src": 6
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 211,
+            "opcode": 2,
+            "src": 5
+        },
+        {
+            "dst": 6,
+            "imm32": 11,
+            "mod": 0,
+            "opcode": 4,
+            "src": 6
+        },
+        {
+            "dst": 2,
+            "imm32": 1421322140,
+            "mod": 0,
+            "opcode": 8,
+            "src": 2
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 213,
+            "opcode": 2,
+            "src": 7
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 0
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 250,
+            "opcode": 2,
+            "src": 1
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 4
+        },
+        {
+            "dst": 0,
+            "imm32": 2906160238,
+            "mod": 0,
+            "opcode": 6,
+            "src": 0
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 5
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 1
+        },
+        {
+            "dst": 1,
+            "imm32": 40,
+            "mod": 0,
+            "opcode": 4,
+            "src": 1
+        },
+        {
+            "dst": 3,
+            "imm32": 3402049184,
+            "mod": 0,
+            "opcode": 7,
+            "src": 3
+        },
+        {
+            "dst": 4,
+            "imm32": 25,
+            "mod": 0,
+            "opcode": 4,
+            "src": 4
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 2
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 0
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 2
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 201,
+            "opcode": 2,
+            "src": 5
+        },
+        {
+            "dst": 7,
+            "imm32": 3887764757,
+            "mod": 0,
+            "opcode": 6,
+            "src": 7
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 2
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 2
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 6
+        },
+        {
+            "dst": 3,
+            "imm32": 2690703631,
+            "mod": 0,
+            "opcode": 13,
+            "src": 3
+        },
+        {
+            "dst": 6,
+            "imm32": 3584731213,
+            "mod": 0,
+            "opcode": 7,
+            "src": 6
+        },
+        {
+            "dst": 7,
+            "imm32": 16,
+            "mod": 0,
+            "opcode": 4,
+            "src": 7
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 170,
+            "opcode": 2,
+            "src": 0
+        },
+        {
+            "dst": 6,
+            "imm32": 2007441233,
+            "mod": 0,
+            "opcode": 8,
+            "src": 6
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 115,
+            "opcode": 2,
+            "src": 0
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 0
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 2
+        },
+        {
+            "dst": 0,
+            "imm32": 31,
+            "mod": 0,
+            "opcode": 4,
+            "src": 0
+        },
+        {
+            "dst": 2,
+            "imm32": 18,
+            "mod": 0,
+            "opcode": 4,
+            "src": 2
+        },
+        {
+            "dst": 2,
+            "imm32": 192621426,
+            "mod": 0,
+            "opcode": 9,
+            "src": 2
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 4
+        },
+        {
+            "dst": 2,
+            "imm32": 42,
+            "mod": 0,
+            "opcode": 4,
+            "src": 2
+        },
+        {
+            "dst": 3,
+            "imm32": 4231501028,
+            "mod": 0,
+            "opcode": 9,
+            "src": 3
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 1
+        },
+        {
+            "dst": 3,
+            "imm32": 509694826,
+            "mod": 0,
+            "opcode": 13,
+            "src": 3
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 1,
+            "imm32": 51,
+            "mod": 0,
+            "opcode": 4,
+            "src": 1
+        },
+        {
+            "dst": 0,
+            "imm32": 2126005437,
+            "mod": 0,
+            "opcode": 5,
+            "src": 0
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 0
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 6
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 11,
+            "src": 0
+        },
+        {
+            "dst": 6,
+            "imm32": 3097902273,
+            "mod": 0,
+            "opcode": 13,
+            "src": 6
+        },
+        {
+            "dst": 0,
+            "imm32": 2806999424,
+            "mod": 0,
+            "opcode": 7,
+            "src": 0
+        },
+        {
+            "dst": 1,
+            "imm32": 26,
+            "mod": 0,
+            "opcode": 4,
+            "src": 1
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 3
+        },
+        {
+            "dst": 1,
+            "imm32": 2401366813,
+            "mod": 0,
+            "opcode": 6,
+            "src": 1
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 3
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 11,
+            "src": 5
+        },
+        {
+            "dst": 7,
+            "imm32": 3170655326,
+            "mod": 0,
+            "opcode": 13,
+            "src": 7
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 136,
+            "opcode": 2,
+            "src": 5
+        },
+        {
+            "dst": 1,
+            "imm32": 2722946896,
+            "mod": 0,
+            "opcode": 6,
+            "src": 1
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 1
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 5
+        },
+        {
+            "dst": 6,
+            "imm32": 1594458427,
+            "mod": 0,
+            "opcode": 13,
+            "src": 6
+        },
+        {
+            "dst": 5,
+            "imm32": 2438237616,
+            "mod": 0,
+            "opcode": 8,
+            "src": 5
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 162,
+            "opcode": 2,
+            "src": 7
+        },
+        {
+            "dst": 3,
+            "imm32": 59,
+            "mod": 0,
+            "opcode": 4,
+            "src": 3
+        },
+        {
+            "dst": 2,
+            "imm32": 863784127,
+            "mod": 0,
+            "opcode": 9,
+            "src": 2
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 0
+        },
+        {
+            "dst": 2,
+            "imm32": 3250923639,
+            "mod": 0,
+            "opcode": 13,
+            "src": 2
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 72,
+            "opcode": 2,
+            "src": 5
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 19,
+            "opcode": 2,
+            "src": 4
+        },
+        {
+            "dst": 3,
+            "imm32": 1592681892,
+            "mod": 0,
+            "opcode": 7,
+            "src": 3
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 144,
+            "opcode": 2,
+            "src": 5
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 10,
+            "opcode": 2,
+            "src": 5
+        },
+        {
+            "dst": 7,
+            "imm32": 2858460996,
+            "mod": 0,
+            "opcode": 9,
+            "src": 7
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 5
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 1
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 1
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 172,
+            "opcode": 2,
+            "src": 2
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 5
+        },
+        {
+            "dst": 6,
+            "imm32": 3811515077,
+            "mod": 0,
+            "opcode": 5,
+            "src": 6
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 1
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 1
+        },
+        {
+            "dst": 4,
+            "imm32": 3295583989,
+            "mod": 0,
+            "opcode": 5,
+            "src": 4
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 2
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 0
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 7
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 0
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 5,
+            "imm32": 44,
+            "mod": 0,
+            "opcode": 4,
+            "src": 5
+        },
+        {
+            "dst": 6,
+            "imm32": 52,
+            "mod": 0,
+            "opcode": 4,
+            "src": 6
+        },
+        {
+            "dst": 3,
+            "imm32": 1733040552,
+            "mod": 0,
+            "opcode": 9,
+            "src": 3
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 6
+        },
+        {
+            "dst": 6,
+            "imm32": 3666862652,
+            "mod": 0,
+            "opcode": 6,
+            "src": 6
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 3
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 4
+        },
+        {
+            "dst": 3,
+            "imm32": 110704718,
+            "mod": 0,
+            "opcode": 13,
+            "src": 3
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 91,
+            "opcode": 2,
+            "src": 2
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 211,
+            "opcode": 2,
+            "src": 6
+        },
+        {
+            "dst": 4,
+            "imm32": 2100412214,
+            "mod": 0,
+            "opcode": 10,
+            "src": 4
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 11,
+            "src": 7
+        },
+        {
+            "dst": 5,
+            "imm32": 2285686655,
+            "mod": 0,
+            "opcode": 13,
+            "src": 5
+        },
+        {
+            "dst": 7,
+            "imm32": 3282562458,
+            "mod": 0,
+            "opcode": 10,
+            "src": 7
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 4
+        },
+        {
+            "dst": 0,
+            "imm32": 3774629517,
+            "mod": 0,
+            "opcode": 13,
+            "src": 0
+        },
+        {
+            "dst": 1,
+            "imm32": 995619879,
+            "mod": 0,
+            "opcode": 10,
+            "src": 1
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 3
+        },
+        {
+            "dst": 1,
+            "imm32": 24,
+            "mod": 0,
+            "opcode": 4,
+            "src": 1
+        },
+        {
+            "dst": 3,
+            "imm32": 4222949784,
+            "mod": 0,
+            "opcode": 10,
+            "src": 3
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 7
+        },
+        {
+            "dst": 3,
+            "imm32": 669654020,
+            "mod": 0,
+            "opcode": 13,
+            "src": 3
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 252,
+            "opcode": 2,
+            "src": 5
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 186,
+            "opcode": 2,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 2268872883,
+            "mod": 0,
+            "opcode": 9,
+            "src": 5
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 3
+        },
+        {
+            "dst": 4,
+            "imm32": 3303674946,
+            "mod": 0,
+            "opcode": 13,
+            "src": 4
+        },
+        {
+            "dst": 5,
+            "imm32": 3490344590,
+            "mod": 0,
+            "opcode": 8,
+            "src": 5
+        },
+        {
+            "dst": 6,
+            "imm32": 11,
+            "mod": 0,
+            "opcode": 4,
+            "src": 6
+        },
+        {
+            "dst": 5,
+            "imm32": 33,
+            "mod": 0,
+            "opcode": 4,
+            "src": 5
+        },
+        {
+            "dst": 3,
+            "imm32": 3480110773,
+            "mod": 0,
+            "opcode": 10,
+            "src": 3
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 2
+        },
+        {
+            "dst": 5,
+            "imm32": 1038910726,
+            "mod": 0,
+            "opcode": 13,
+            "src": 5
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 1
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 0
+        },
+        {
+            "dst": 2,
+            "imm32": 54,
+            "mod": 0,
+            "opcode": 4,
+            "src": 2
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 111,
+            "opcode": 2,
+            "src": 1
+        },
+        {
+            "dst": 1,
+            "imm32": 1527737735,
+            "mod": 0,
+            "opcode": 8,
+            "src": 1
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 183,
+            "opcode": 2,
+            "src": 2
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 205,
+            "opcode": 2,
+            "src": 0
+        },
+        {
+            "dst": 0,
+            "imm32": 1862056508,
+            "mod": 0,
+            "opcode": 8,
+            "src": 0
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 54,
+            "opcode": 2,
+            "src": 6
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 67,
+            "opcode": 2,
+            "src": 1
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 108,
+            "opcode": 2,
+            "src": 2
+        },
+        {
+            "dst": 6,
+            "imm32": 182245104,
+            "mod": 0,
+            "opcode": 7,
+            "src": 6
+        },
+        {
+            "dst": 6,
+            "imm32": 16,
+            "mod": 0,
+            "opcode": 4,
+            "src": 6
+        },
+        {
+            "dst": 7,
+            "imm32": 4,
+            "mod": 0,
+            "opcode": 4,
+            "src": 7
+        },
+        {
+            "dst": 1,
+            "imm32": 2632239090,
+            "mod": 0,
+            "opcode": 10,
+            "src": 1
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 7
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 2
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 4
+        },
+        {
+            "dst": 6,
+            "imm32": 48,
+            "mod": 0,
+            "opcode": 4,
+            "src": 6
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 2476488648,
+            "mod": 0,
+            "opcode": 6,
+            "src": 5
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 0
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 0
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 37,
+            "opcode": 2,
+            "src": 6
+        },
+        {
+            "dst": 7,
+            "imm32": 3250851657,
+            "mod": 0,
+            "opcode": 8,
+            "src": 7
+        },
+        {
+            "dst": 0,
+            "imm32": 10,
+            "mod": 0,
+            "opcode": 4,
+            "src": 0
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 1
+        },
+        {
+            "dst": 6,
+            "imm32": 11,
+            "mod": 0,
+            "opcode": 4,
+            "src": 6
+        },
+        {
+            "dst": 3,
+            "imm32": 2323611449,
+            "mod": 0,
+            "opcode": 6,
+            "src": 3
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 2
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 1
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 2
+        },
+        {
+            "dst": 1,
+            "imm32": 34,
+            "mod": 0,
+            "opcode": 4,
+            "src": 1
+        },
+        {
+            "dst": 0,
+            "imm32": 1070729753,
+            "mod": 0,
+            "opcode": 10,
+            "src": 0
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 11,
+            "src": 6
+        },
+        {
+            "dst": 5,
+            "imm32": 1664485107,
+            "mod": 0,
+            "opcode": 13,
+            "src": 5
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 6
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 3
+        },
+        {
+            "dst": 3,
+            "imm32": 6,
+            "mod": 0,
+            "opcode": 4,
+            "src": 3
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 161,
+            "opcode": 2,
+            "src": 7
+        },
+        {
+            "dst": 4,
+            "imm32": 1061944968,
+            "mod": 0,
+            "opcode": 8,
+            "src": 4
+        },
+        {
+            "dst": 4,
+            "imm32": 23,
+            "mod": 0,
+            "opcode": 4,
+            "src": 4
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 93,
+            "opcode": 2,
+            "src": 3
+        },
+        {
+            "dst": 7,
+            "imm32": 1005084476,
+            "mod": 0,
+            "opcode": 7,
+            "src": 7
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 90,
+            "opcode": 2,
+            "src": 4
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 3
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 0
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 58,
+            "opcode": 2,
+            "src": 5
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 32,
+            "opcode": 2,
+            "src": 4
+        },
+        {
+            "dst": 4,
+            "imm32": 2702763197,
+            "mod": 0,
+            "opcode": 10,
+            "src": 4
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 6
+        },
+        {
+            "dst": 2,
+            "imm32": 4263908569,
+            "mod": 0,
+            "opcode": 13,
+            "src": 2
+        },
+        {
+            "dst": 0,
+            "imm32": 3729772465,
+            "mod": 0,
+            "opcode": 8,
+            "src": 0
+        },
+        {
+            "dst": 1,
+            "imm32": 28,
+            "mod": 0,
+            "opcode": 4,
+            "src": 1
+        },
+        {
+            "dst": 6,
+            "imm32": 667543147,
+            "mod": 0,
+            "opcode": 5,
+            "src": 6
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 0
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 0
+        },
+        {
+            "dst": 4,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 11,
+            "src": 6
+        },
+        {
+            "dst": 0,
+            "imm32": 4187433137,
+            "mod": 0,
+            "opcode": 13,
+            "src": 0
+        },
+        {
+            "dst": 1,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 5
+        },
+        {
+            "dst": 5,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        },
+        {
+            "dst": 3,
+            "imm32": 57,
+            "mod": 0,
+            "opcode": 4,
+            "src": 3
+        },
+        {
+            "dst": 6,
+            "imm32": 0,
+            "mod": 27,
+            "opcode": 2,
+            "src": 7
+        },
+        {
+            "dst": 2,
+            "imm32": 2552929060,
+            "mod": 0,
+            "opcode": 9,
+            "src": 2
+        },
+        {
+            "dst": 7,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 7
+        },
+        {
+            "dst": 4,
+            "imm32": 3380995988,
+            "mod": 0,
+            "opcode": 13,
+            "src": 4
+        },
+        {
+            "dst": 3,
+            "imm32": 1989517729,
+            "mod": 0,
+            "opcode": 7,
+            "src": 3
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 38,
+            "opcode": 2,
+            "src": 6
+        },
+        {
+            "dst": 6,
+            "imm32": 1175679412,
+            "mod": 0,
+            "opcode": 6,
+            "src": 6
+        },
+        {
+            "dst": 3,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 1,
+            "src": 0
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 0,
+            "src": 6
+        },
+        {
+            "dst": 2,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 12,
+            "src": 0
+        },
+        {
+            "dst": 6,
+            "imm32": 2797661301,
+            "mod": 0,
+            "opcode": 13,
+            "src": 6
+        },
+        {
+            "dst": 0,
+            "imm32": 0,
+            "mod": 0,
+            "opcode": 3,
+            "src": 7
+        }
+    ],
+    "ipc": 3.0809248554913293,
+    "macroOps": 533,
+    "mulCount": 156,
+    "size": 449
+}
